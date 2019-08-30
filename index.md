@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages  白班小队们！！！
 
-<div width="100%" height="500px" background="#233"></div>
+<div width="100%" height="30" align="center">welcom</div>
 
 You can use the [editor on GitHub](https://github.com/windyichen/index/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
