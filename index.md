@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages  白班小队们！！！
 后面显示一张图片![Alt text](https://github.com/windyichen/mysee/blob/master/new.jpg)前面显示图片
-![点击我可跳转百度](https://www.baidu.com)
+[点击我可跳转百度](https://www.baidu.com)
 
 <div width="100%" height="30" bgcolor="red" align="center">welcom</div>
 
