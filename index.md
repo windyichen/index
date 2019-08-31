@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages  白班小队们！！！
-![girl](https://pic.sogou.com/pics/recompic/detail.jsp?category=%E7%BE%8E%E5%A5%B3&tag=%E5%A4%8F%E6%97%A5#29%2617427962)
+后面显示一张图片![girl](https://pic.sogou.com/pics/recompic/detail.jsp?category=%E7%BE%8E%E5%A5%B3&tag=%E5%A4%8F%E6%97%A5#29%2617427962)前面显示图片
 
 <div width="100%" height="30" bgcolor="red" align="center">welcom</div>
 
